@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[hasil demo aplikasi](https://github.com/user-attachments/assets/bf36687f-7c6e-481f-9a71-0eece93c8f81)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
